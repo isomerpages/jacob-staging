@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Test subfolder/.keep
-      - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md

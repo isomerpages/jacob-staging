@@ -1,5 +1,4 @@
 collections:
   another-folder:
     output: true
-    order:
-      - Example Title.md
+    order: []

@@ -1,6 +1,7 @@
 ---
 title: Example Titlef dsfds
 permalink: /example-titlef-dsfds/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+fdsfafdsa
